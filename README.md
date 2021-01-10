@@ -1,0 +1,1 @@
+# Biqu-Thumbnail-Generator
