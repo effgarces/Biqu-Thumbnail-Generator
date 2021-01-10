@@ -2,7 +2,7 @@ This script is not my work, It was shared over ath https://github.com/bigtreetec
 
 The version shared here is my modified version that adds "_btt" to the gcode file name and preserves the original file extension, instead of enforcing a .gcode file extension.
 
-How to use:
+How to use (script version):
 Download and install python 3 (3.9.1 at this moment in time), afterwards, install PyQt5, by going to the command line and issuing `pip install PyQt5`
 
 Next open prusa slicer and add the thumbail generation:
@@ -14,4 +14,7 @@ Finaly go to your Print Settings and in Post processing scripts, add the followi
 
 Then when saving the gcode, it will be processed by the script that will replace it with a version with the correct thumbnails for our TFT
 
-A compiled (standalone) exe version, using auto-py-to-exe, is also available in the releases, if you use that version, you don't need to install python, pyqt or add it to the "Post processing scripts" textbox in prusaslicer, simply add the exe and it should work.
+How to use (standalone version):
+A compiled (standalone) exe version, using auto-py-to-exe, is also available in the releases, if you use that version, you don't need to install python, pyqt or add the paths to the "Post processing scripts".
+
+Simply copy the exe to the same folder as prusaslicer.exe or superslicer.exe is on, then on "Post processing scripts", place the following "biqu_convert_new.exe"
