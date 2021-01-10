@@ -14,4 +14,4 @@ Finaly go to your Print Settings and in Post processing scripts, add the followi
 
 Then when saving the gcode, it will be processed by the script that will replace it with a version with the correct thumbnails for our TFT
 
-A compiled exe version, using auto-py-to-exe, is also available in the releases.
+A compiled (standalone) exe version, using auto-py-to-exe, is also available in the releases, if you use that version, you don't need to install python, pyqt or add it to the "Post processing scripts" textbox in prusaslicer, simply add the exe and it should work.
