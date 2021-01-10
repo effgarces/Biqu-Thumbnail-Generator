@@ -17,4 +17,8 @@ Then when saving the gcode, it will be processed by the script that will replace
 How to use (standalone version):
 A compiled (standalone) exe version, using auto-py-to-exe, is also available in the releases, if you use that version, you don't need to install python, pyqt or add the paths to the "Post processing scripts".
 
-Simply copy the exe to the same folder as prusaslicer.exe or superslicer.exe is on, then on "Post processing scripts", place the following "biqu_convert_new.exe"
+First enable the thumbail generation:
+![Captura de ecrã 2021-01-01 124431](https://user-images.githubusercontent.com/1185683/103439342-fad15d00-4c33-11eb-97ca-65bbb512ba31.png)
+
+
+Then simply copy the exe to the same folder as prusaslicer.exe or superslicer.exe is on, then on "Post processing scripts", place the following "biqu_convert_new.exe"
