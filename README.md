@@ -22,3 +22,5 @@ First enable the thumbail generation:
 
 
 Then simply copy the exe to the same folder as prusaslicer.exe or superslicer.exe is on, then on "Post processing scripts", place the following "biqu_convert_new.exe"
+
+![Captura de ecrã 2021-01-10 155118](https://user-images.githubusercontent.com/1185683/104127733-b8a6ca80-535b-11eb-8a4d-f27d1bcefb2e.png)
