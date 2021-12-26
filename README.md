@@ -1,3 +1,7 @@
+Updated 26/12/2021
+
+Added a modified version that complies with PrusaSlicer 2.4
+
 This script is not my work, It was shared over ath https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/issues/1238, please read the issue for all relevant information.
 
 The version shared here is my modified version that adds "_btt" to the gcode file name and preserves the original file extension, instead of enforcing a .gcode file extension.
