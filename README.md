@@ -1,3 +1,7 @@
+Updated 03/02/2022
+Fixed issue with PrusaSlicer g-code preview for post processed files (thanks @sarvenn)
+A new "compiled" version is provided
+
 Updated 26/12/2021
 
 Added a modified version that complies with PrusaSlicer 2.4

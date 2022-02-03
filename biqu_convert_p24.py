@@ -62,7 +62,7 @@ def do_convert(gfile):
        stream = QTextStream(fh)
        stream.setCodec(CODEC)
        lino = 0
-       fg = stream.readAll() + "\r\n"
+       fg = stream.readAll()
        fh.close()
        bigtree3dfile = gfile
        fh = QFile(bigtree3dfile)
